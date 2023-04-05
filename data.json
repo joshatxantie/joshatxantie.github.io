@@ -1,0 +1,50 @@
+{
+    "name": "Josh Smith",
+    "title": "Lead Software Developer",
+    "resume": "https://joshnsmith.github.io/resume",
+    "linkedin": "https://www.linkedin.com/in/joshnathansmith/",
+    "email": "josh@xantie.com",
+    "phone": "(385)254-8205",
+    "yearsOfExperience": 4,
+    "bannerColor": "47fff0",
+    "profilePicture": "/img/profile.png",
+    "url": "http://127.0.0.1:5500/",
+    "description": "I am developer based out of the Salt Lake City Area. I mainly focus my work around web based projects. I am a caffeine lover and I love to play video games. Aside from the fun, I am a hard worker and very Communicative.",
+    "skills": [
+        {
+            "skill": "JavaScript",
+            "strength": "8",
+            "strengthDescription": "Advanced",
+            "description": "JavaScript has been a big part of my career. I am familiar with React and Angular frameworks and also do backend work in Node.JS. I have built full scale web application's using it and love to build and create with it.",
+            "icon": "fab fa-js-square"
+        },
+        {
+            "skill": "Python",
+            "strength": "6",
+            "strengthDescription": "Intermediate",
+            "description": "I have used Python for many ETL applications and moving big data. I have analysed and measured productivity and performance using Python. I have also built frontend applications running on Flask and have used many libraries such as Pandas, Tensorflow and PyODBC.",
+            "icon": "fab fa-python"
+        },
+        {
+            "skill": "Front End",
+            "strength": "8",
+            "strengthDescription": "Advanced",
+            "description": "I have done a lot of projects on the Frontend. A have used many technologies like: React, Angular, Bootstrap, Firebase, SCSS, HTML5, CSS, JavaScript, PHP, Wordpress, Wordpress Custom Plugins, Shopify, Bluestep, and more!",
+            "icon": "fa fa-laptop-code"
+        },
+        {
+            "skill": "Back End",
+            "strength": "8",
+            "strengthDescription": "Advanced",
+            "description": "I have built many applications and backend API's with Node.JS and Flask. I have also integrated with other API's and am familiar with Google API's, AWS, Azure, and SQL Databases. I have also created workflows and ran projects in a DevOps framework and have used many project management tools like Jira, Azure DevOps, and GitHub.",
+            "icon": "fas fa-database"
+        },
+        {
+            "skill": "Mobile Applications",
+            "strength": "6",
+            "strengthDescription": "Intermediate",
+            "description": "I have built out two full scale mobile application's for clients. I have used Android Studio and XCode to build out applications. I have also used React Native to go as in between for the two platforms. I highly recommend using React Native to speed up development times and increase quality with the made up time.",
+            "icon": "fab fa-apple"
+        }
+    ]
+}
