@@ -196,7 +196,7 @@
             setData("js-description", data.description)
         });
 
-    fetch("/portfolios.json")
+    fetch("https://joshatxantie.github.io/portfolios.json")
         .then(response => {
             return response.ok ? response.json() : {portfolios: []}
         })
